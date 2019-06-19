@@ -1,5 +1,5 @@
 # Deep-emotion-feature-extraction
-The scripts are for AVEC 2019 challenge () and emo-pain 2019 (). Currently, it only works in Linux.
+The scripts are for AVEC 2019 challenge (https://sites.google.com/view/avec2019/home) and emo-pain 2019 (). Currently, this code only works in Linux.
 
 The code contains two parts: face alignment and deep feature extraction.
 
