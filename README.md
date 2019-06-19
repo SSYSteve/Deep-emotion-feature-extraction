@@ -46,8 +46,15 @@ tqdm
 
 # Citation
 
-If you use this code, please kindly cite 
+If you use this code, please cite 
 
+[1] Baltrusaitis, Tadas, et al. "Openface 2.0: Facial behavior analysis toolkit." 2018 13th IEEE International Conference on Automatic Face & Gesture Recognition (FG 2018). IEEE, 2018.
+
+[2] Kollias, Dimitrios, et al. "Deep affect prediction in-the-wild: Aff-wild database and challenge, deep architectures, and beyond." International Journal of Computer Vision (2019): 1-23.
+
+[3] AVEC 2019 baseline paper
+
+[4] Emo-pain 2019 baseline paper
 
 # Contact:
 
