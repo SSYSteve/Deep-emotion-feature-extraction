@@ -2,12 +2,13 @@
 The scripts are for AVEC 2019 challenge (https://sites.google.com/view/avec2019/home) and emo-pain 2020 (https://mvrjustid.github.io/EmoPainChallenge2020/). Currently, this code only works in Linux.
 
 The code contains two parts: face alignment and deep feature extraction.
+The deep model can be downloaded from https://drive.google.com/drive/folders/1xkVK92XLZOgYlpaRpG_-WP0Elzg4ewpw
 
 # Usage:
 
 1. Install OpenFace
 
-2. Copy all files in .zip to './OpenFace/build/bin/'
+2. Copy all files to './OpenFace/build/bin/'
 
 3. Line 73, 76 and 79 in demo.py are comand lines for runing feature extraction scripts: feature_extraction_RESNET.py, feature_extraction_VGG.py, 
 feature_extraction_RESNET_reg.py. Please changing them before the use to make the command lines suitable for your own machine.
@@ -52,9 +53,10 @@ If you use this code, please cite
 
 [2] Kollias, Dimitrios, et al. "Deep affect prediction in-the-wild: Aff-wild database and challenge, deep architectures, and beyond." International Journal of Computer Vision (2019): 1-23.
 
-[3] AVEC 2019 baseline paper
+[3] Ringeval, Fabien, et al. "Avec 2019 workshop and challenge: State-of-mind, detecting depression with ai, and cross-cultural affect recognition." Proceedings of the 9th International on Audio/Visual Emotion Challenge and Workshop. ACM, 2019.
 
-[4] Emo-pain 2019 baseline paper
+[4] emoPain 2019 baseline paper.
+
 
 # Contact:
 
